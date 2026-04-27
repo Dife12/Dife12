@@ -1,16 +1,17 @@
-# Hi, I'm [tekihi] 👋
+# Hi, I'm [Your Name] 👋
 
 ### 🎓 M1 Student @ The University of Tokyo
-- 🛰️ **Major:** IoT & Embedded Systems enthusiast.
-- 🌱 **Learning:** Exploring advanced research in connected hardware.
-- 💻 **Tech:** Focused on C++, PlatformIO, and IoT architecture.
+- 🛰️ **Focus:** IoT & Embedded Systems.
+- 🌱 **Learning:** Advanced research in connected hardware and software.
+- 💻 **Core Tech:** C++, Python, and Java.
 
 ---
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/UTokyo-005596?style=for-the-badge&logo=university&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-263238?style=for-the-badge&logo=internet-of-things&logoColor=white" />
   <img src="https://img.shields.io/badge/PlatformIO-f3a007?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
