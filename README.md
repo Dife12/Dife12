@@ -21,8 +21,3 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dife12&show_icons=true&theme=transparent" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dife12&layout=compact&theme=transparent" />
 </p>
-
-### 🛠 Language Distribution
-<p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dife12&layout=compact&theme=transparent&hide_border=true&langs_count=5" />
-</p>
