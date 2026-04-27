@@ -1,6 +1,8 @@
 # Hi, I'm [tekihi] 👋
 
-### 🎓 M1 Student @ The University of Tokyo
+### 🎓 Education
+- **M1 student** at **The University of Tokyo** (UTokyo) 🛰️
+- **B.S.** graduated from **Tokyo Denki University** (TDU) 🏫
 - 🛰️ **Focus:** IoT & Embedded Systems.
 
 ---
