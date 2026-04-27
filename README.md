@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [tekihi] 👋
 
 ### 🎓 M1 Student @ The University of Tokyo
 - 🛰️ **Focus:** IoT & Embedded Systems.
