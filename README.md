@@ -3,7 +3,7 @@
 ### 🎓 Education
 - **M1 student** at **The University of Tokyo** (UTokyo) 🛰️
 - **B.S.** graduated from **Tokyo Denki University** (TDU) 🏫
-- **Focus:** IoT & Embedded Systems.
+- **Focus:** IoT & Embedded Systems. 
 
 ---
 
