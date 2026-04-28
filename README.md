@@ -20,7 +20,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dife12&layout=compact&theme=transparent" />
-</p>
