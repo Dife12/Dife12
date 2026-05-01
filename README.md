@@ -21,3 +21,7 @@
 ---
 
 
+### 📊 Language Distribution
+<p align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dife12&layout=compact&theme=transparent&hide_border=true" />
+</p>
