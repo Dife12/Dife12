@@ -24,5 +24,5 @@
 
 ### 📊 Language Distribution
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dife12&show_icons=true&theme=transparent" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Dife12&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=xxxx&theme=dracula)" />
 </p>
