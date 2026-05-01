@@ -24,5 +24,5 @@
 
 ### 📊 Language Distribution
 <p align="left">
-  <img height="200em" src="https://stats.justsong.cn/api/top-langs/?username=Dife12&layout=compact&theme=transparent" />
+  <img src="https://metrics.lecoq.io/Dife12?template=classic&base.languages=true&base.languages.sections=most-used&base.languages.details=percentage" />
 </p>
