@@ -24,5 +24,5 @@
 
 ### 📊 Language Distribution
 <p align="left">
-  <img src="https://metrics.lecoq.io/Dife12?template=classic&base.languages=true&base.languages.sections=most-used&base.languages.details=percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dife12&show_icons=true&theme=transparent" />
 </p>
