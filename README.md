@@ -24,6 +24,6 @@
 
 ### 📊 Language Distribution
 <p align="left">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Dife12&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=Dife12&theme=dracula)" />
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dife12&theme=default)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dife12&theme=default" height="200em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dife12&layout=compact&theme=transparent&hide_border=true" height="200em" />
 </p>
