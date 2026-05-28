@@ -20,10 +20,8 @@
 
 ---
 
-
-### 📊 Language Distribution
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dife12&theme=default" height="200em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dife12&theme=default" height="200em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dife12&theme=default" height="200em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dife12&theme=nord_bright" height="200em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dife12&theme=nord_bright" height="200em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dife12&theme=nord_bright" height="200em" />
 </p>
